@@ -5,7 +5,7 @@ This repo contains my personal practice projects with Blender
 
 Tutorial by Blender Guru: https://youtu.be/0OsgS2JpM8k
 
-My demo video link: 
+My demo video link: https://youtu.be/yUyDKOE-vBM
 
 Demo:
 
